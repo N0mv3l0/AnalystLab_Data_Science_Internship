@@ -1,4 +1,6 @@
-### Case studies
+# Case studies
 
 
-## please view respective folders
+## All folders included in this repository represent each case study.
+
+### 1. Airbnb Pricing, Location and Listing Characteristics Investigation
