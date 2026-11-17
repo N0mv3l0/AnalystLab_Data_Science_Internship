@@ -180,37 +180,6 @@ itself, evidence of a product defect.
 
 ## Repository contents
 
-Suggested repository structure:
-
-``` text
-analystlab-week2-ecommerce-eda/
-├── README.md
-├── AnalystLab_Week2_Track2_Databricks_PySpark_Pandas_Matplotlib.ipynb
-├── AnalystLab_Week2_Track2_Databricks_PySpark_Pandas_Matplotlib.py
-└── visualisations/
-    ├── monthly_revenue.png
-    ├── product_revenue.png
-    ├── customer_order_frequency.png
-    └── ...
-```
-
-Add the notebook, Python export and visualisation images to the
-repository if they are part of your final submission. The
-`visualisations/` folder above is a suggested structure; include only
-files you have actually exported.
-
-## How to run
-
-1.  Open the notebook in a Databricks workspace.
-2.  Ensure the six source tables are available in the catalog and schema
-    referenced by the notebook.
-3.  If your catalog or schema names differ, update the table references
-    in the data-loading cell.
-4.  Run the notebook cells in order.
-5.  Review the outputs and charts, then complete the evidence-based
-    insight and recommendation section using the results produced in
-    your own workspace.
-
 The notebook references the tables
 `workspace.e-commerce.website_sessions`,
 `workspace.e-commerce.website_pageviews`,
