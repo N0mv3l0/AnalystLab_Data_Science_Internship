@@ -20,7 +20,7 @@
 #### 2.2. Project description & raw data:
   Original AnalystLab project assignment + raw data
 #### 2.3. ReadME
-####2.4. Visuals:
+#### 2.4. Visuals:
   Graphs
 #### 2.5. Reports
   7 evidence-based business insghts+ video presentation
