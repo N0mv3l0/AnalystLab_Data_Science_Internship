@@ -5,23 +5,25 @@
 
 ### 1. Airbnb Pricing, Location and Listing Characteristics Investigation
 #### 1.1. Notebooks:
-  Jupyter notebook + Python source code
+  - Jupyter notebook
+  -  Python source code
 #### 1.2. Project Description:
-  AnalystLab project task
+  - AnalystLab project task
 #### 1.3. ReadME
 #### 1.4. Reports:
-  Case study report explaining case study
+  - Case study report explaining case study
 #### 1.5. Visuals:
-  Graphs
+  - Graphs
 
 ### 2. E-commerce Business Performance and Customer Behaviour 
 #### 2.1. Notebooks:
-  Jupyter notebook + Python source code
+  - Jupyter notebook
+  -  Python source code
 #### 2.2. Project description & raw data:
-  Original AnalystLab project assignment + raw data
+  - Original AnalystLab project assignment + raw data
 #### 2.3. ReadME
 #### 2.4. Visuals:
-  Graphs
+  - Graphs
 #### 2.5. Reports
-  7 evidence-based business insghts+ video presentation
-  + EDA Report (PDF)
+  - 7 evidence-based business insghts+ video presentation
+  - EDA Report (PDF)
