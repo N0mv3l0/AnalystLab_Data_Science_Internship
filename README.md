@@ -20,7 +20,8 @@
   - Jupyter notebook
   -  Python source code
 #### 2.2. Project description & raw data:
-  - Original AnalystLab project assignment + raw data
+  - Original AnalystLab project assignment
+  -  raw data
 #### 2.3. ReadME
 #### 2.4. Visuals:
   - Graphs
