@@ -24,3 +24,4 @@
   Graphs
 #### 2.5. Reports
   7 evidence-based business insghts+ video presentation
+  + EDA Report (PDF)
