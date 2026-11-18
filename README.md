@@ -26,5 +26,6 @@
 #### 2.4. Visuals:
   - Graphs
 #### 2.5. Reports
-  - 7 evidence-based business insghts+ video presentation
+  - 7 evidence-based business insights
+  -  video presentation
   - EDA Report (PDF)
